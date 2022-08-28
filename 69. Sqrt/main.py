@@ -19,3 +19,4 @@ class Solution(object):
 
 sol = Solution()
 print(sol.mySqrt(8))
+#nice
