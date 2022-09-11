@@ -1,8 +1,8 @@
-
 class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+
 
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
@@ -11,26 +11,42 @@ class Solution(object):
         :type l2: ListNode
         :rtype: ListNode
         """
-        length1 = self.get_linked_list_length(l1)
-        length2 = self.get_linked_list_length(l2)
-        arr1 = [length1]
-        arr2 = [length2]
+        arr1 = []
+        self.assign_linked_list_to_array(l1, arr1)
+        arr2 = []
+        self.assign_linked_list_to_array(l2, arr2)
+        str1 = self.create_string_from_array(arr1)
+        str2 = self.create_string_from_array(arr2)
+        num1 = int(str1)
+        num2 = int(str2)
+        finalNum = num1 + num2
+        finalStr = str(finalNum)
+        finalArr = []
+        for i in range(len(finalStr)):
+            finalArr.append(str(finalStr[i]))
+        return self.assign_list_to_linked_list(reversed(finalArr))
+
+    def assign_linked_list_to_array(self, root, array):
+        if root is None:
+            return
+        self.assign_linked_list_to_array(root.next, array)
+        array.append(root.val)
+
+    def create_string_from_array(self, arr):
+        string = ""
+        for i in range(len(arr)):
+            string += str(arr[i])
+        return string
+
+    def assign_list_to_linked_list(self, arr):
+        cur = dummy = ListNode(0)
+        for e in arr:
+            cur.next = ListNode(e)
+            cur = cur.next
+        return dummy.next
 
 
-    def get_linked_list_length(linkedList):
-        length = 0
-        while linkedList.next is not None:
-            length = length + 1
-            linkedList = linkedList.next
-        return length
 
-    def assign_linked_list_to_array(self, linkedList, array):
-        if(linkedList.next is None):
-            array[0] = linkedList.val
-
-    def assign_linked_list_to_array_helper(self, index, linkedList, array):
-        if(linkedList.next is None):
-            array[len(array) - 1] = linkedList.val
 
 
     
