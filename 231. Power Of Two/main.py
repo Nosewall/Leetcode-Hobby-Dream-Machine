@@ -6,6 +6,7 @@ class Solution(object):
         """
         while n > 1:
             n = n/2
+            print("Test")
         return n == 1
 
 sol = Solution()
