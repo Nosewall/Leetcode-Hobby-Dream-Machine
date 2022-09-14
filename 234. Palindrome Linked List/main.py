@@ -5,14 +5,15 @@
 #         self.next = next
 class Solution(object):
     count = 0
+
     def isPalindrome(self, head):
         """
         :type head: ListNode
         :rtype: bool
         """
         newArr = []
-        self.isPalindromeHelper(head, [])
-        print(newArr)
+        self.isPalindromeHelper(head, newArr)
+        return not False in newArr
 
     def isPalindromeHelper(self, root, arr):
         if root is None:
@@ -22,4 +23,5 @@ class Solution(object):
         self.isPalindromeHelper(root.next, arr)
         arr[self.count] = root.val == arr[self.count]
         self.count += 1
+
 
