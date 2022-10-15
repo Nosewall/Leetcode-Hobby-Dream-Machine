@@ -13,7 +13,3 @@ class Solution:
             return doubles * 2
         else:
             return (doubles * 2) + 1
-
-
-sol = Solution()
-print(sol.longestPalindrome("aab098yth"))
