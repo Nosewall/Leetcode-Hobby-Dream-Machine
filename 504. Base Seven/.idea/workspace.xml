@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b84d6f6a-0c08-4b24-ba41-88a52928daa0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../20.-Valid-Parentheses" beforeDir="false" afterPath="$PROJECT_DIR$/../20.-Valid-Parentheses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27-remove-element" beforeDir="false" afterPath="$PROJECT_DIR$/../27-remove-element" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/504. Find Mode in Binary Search Tree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectId" id="2H9jmdyuWYwTpp8U0AtekZI3F8d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="504__Base_Seven" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="504__Base_Seven" TARGET_NAME="504__Base_Seven" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="504__Base_Seven" RUN_TARGET_NAME="504__Base_Seven">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b84d6f6a-0c08-4b24-ba41-88a52928daa0" name="Changes" comment="" />
+      <created>1667704354464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667704354464</updated>
+      <workItem from="1667704357355" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
