@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Christmas_Special" targetName="Day_1_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Christmas_Special" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bd98ab3-913b-4601-848e-7be9af188f1b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../20.-Valid-Parentheses" beforeDir="false" afterPath="$PROJECT_DIR$/../20.-Valid-Parentheses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27-remove-element" beforeDir="false" afterPath="$PROJECT_DIR$/../27-remove-element" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Base Seven/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base Seven/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/504. Find Mode in Binary Search Tree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../504. Find Mode in Binary Search Tree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../506. Relative Ranks/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../506. Relative Ranks/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../541. Reverse String 2/ProducerConsumer.c" beforeDir="false" afterPath="$PROJECT_DIR$/../541. Reverse String 2/ProducerConsumer.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../551. Student Attendance Record I/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../551. Student Attendance Record I/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/.idea/575. Distribute Candies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/.idea/575. Distribute Candies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectId" id="2IMh8GWQA1p1EoOxggL0RIVw8Ht" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.Day_1_Puzzle_1">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Christmas_Special" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Christmas_Special" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Christmas_Special">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_1_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_1_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_1_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Christmas_Special" />
+      <item itemvalue="CMake Application.Day_1_Puzzle_1" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd98ab3-913b-4601-848e-7be9af188f1b" name="Changes" comment="" />
+      <created>1669997198804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669997198804</updated>
+      <workItem from="1669997200883" duration="2221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
