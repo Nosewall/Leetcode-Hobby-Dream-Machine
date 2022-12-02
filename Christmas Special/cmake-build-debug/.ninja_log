@@ -1,17 +1,7 @@
 # ninja log v5
-1	167	6917006175135948	build.ninja	4f862631683f7476
-1	316	6917006160200444	CMakeFiles/Christmas_Special.dir/main.cpp.obj	500208f39a0549fb
-316	415	6917006161164373	Christmas_Special.exe	c9c36b207e18bb7b
+3	327	6917435229958576	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
+1	160	6917439195497313	build.ninja	4f862631683f7476
+2	326	6917438667567683	CMakeFiles/Christmas_Special.dir/main.cpp.obj	500208f39a0549fb
+328	428	6917435230928705	Day_1_Puzzle_1.exe	4f2c5ea7022b664f
+326	420	6917438668487856	Christmas_Special.exe	c9c36b207e18bb7b
 0	358	6917005935936081	CMakeFiles/Christmas_Special.dir/Day_1/Puzzle_1/main.cpp.obj	da40ddb9cc640b12
-1	303	6917006268459416	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
-304	396	6917006269358540	Day_1_Puzzle_1.exe	4f2c5ea7022b664f
-3	359	6917012342875968	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
-360	454	6917012343796268	Day_1_Puzzle_1.exe	4f2c5ea7022b664f
-3	350	6917012588982808	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
-350	441	6917012589876108	Day_1_Puzzle_1.exe	4f2c5ea7022b664f
-2	331	6917012966585681	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
-332	426	6917012967505789	Day_1_Puzzle_1.exe	4f2c5ea7022b664f
-2	343	6917014570615904	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
-343	437	6917014571516765	Day_1_Puzzle_1.exe	4f2c5ea7022b664f
-3	354	6917032023306768	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
-354	457	6917032024326774	Day_1_Puzzle_1.exe	4f2c5ea7022b664f

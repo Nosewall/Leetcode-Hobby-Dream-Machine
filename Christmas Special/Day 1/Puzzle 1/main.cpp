@@ -2,11 +2,11 @@
 #include <fstream>
 
 int main() {
-    std::ifstream input("input.txt");
+    std::ifstream inputFile("input.txt");
     std::string line;
-    while(std::getline(input, line)){
+    while(std::getline(inputFile, line)){
         std::cout << line << std::endl;
-
     }
+    inputFile.close();
     return 0;
 }
