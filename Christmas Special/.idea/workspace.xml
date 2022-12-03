@@ -10,6 +10,7 @@
     <generated>
       <config projectName="Christmas_Special" targetName="Day_1_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Day_1_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_2_Puzzle_2" />
       <config projectName="Christmas_Special" targetName="Day_2_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Christmas_Special" />
     </generated>
@@ -21,6 +22,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd98ab3-913b-4601-848e-7be9af188f1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day 2/Puzzle 2/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../20.-Valid-Parentheses" beforeDir="false" afterPath="$PROJECT_DIR$/../20.-Valid-Parentheses" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../27-remove-element" beforeDir="false" afterPath="$PROJECT_DIR$/../27-remove-element" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" afterDir="false" />
@@ -40,14 +42,13 @@
       <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Puzzle 1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Puzzle 1/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8e7894e2b55b2dc4114b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-03T05-37-50-0495.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Day_2_Puzzle_2-Debug-4d863d825eddb5efb4df.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a2897ba31034228bd39c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-03T05-45-19-0007.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Day_2_Puzzle_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Day_2_Puzzle_1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
@@ -84,12 +85,13 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/Day 1/Puzzle 2",
+    "last_opened_file_path": "C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/Day 2/Puzzle 2",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special\Day 2\Puzzle 2" />
       <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special\Day 1\Puzzle 2" />
       <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special\cmake-build-debug" />
       <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special" />
@@ -98,7 +100,7 @@
       <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special\cmake-build-debug" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Day_2_Puzzle_1">
+  <component name="RunManager" selected="CMake Application.Day_2_Puzzle_2">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -124,11 +126,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day_2_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_2_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_2_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.Christmas_Special" />
       <item itemvalue="CMake Application.Day_1_Puzzle_1" />
       <item itemvalue="CMake Application.Day_1_Puzzle_2" />
       <item itemvalue="CMake Application.Day_2_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_2_Puzzle_2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -139,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669997198804</updated>
-      <workItem from="1669997200883" duration="12105000" />
+      <workItem from="1669997200883" duration="12516000" />
     </task>
     <servers />
   </component>
