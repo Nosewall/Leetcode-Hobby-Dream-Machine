@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Day_2_Puzzle_2.exe"
+			"path" : "Day_2_Puzzle_1.exe"
 		},
 		{
-			"path" : "Day_2_Puzzle_2.pdb"
+			"path" : "Day_2_Puzzle_1.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "Day_2_Puzzle_2::@6890427a1f51a3e7e1df",
+	"id" : "Day_2_Puzzle_1::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Day_2_Puzzle_2",
-	"nameOnDisk" : "Day_2_Puzzle_2.exe",
+	"name" : "Day_2_Puzzle_1",
+	"nameOnDisk" : "Day_2_Puzzle_1.exe",
 	"paths" : 
 	{
 		"build" : ".",

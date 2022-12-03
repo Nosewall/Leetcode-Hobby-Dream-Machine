@@ -10,7 +10,7 @@
     <generated>
       <config projectName="Christmas_Special" targetName="Day_1_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Day_1_Puzzle_2" />
-      <config projectName="Christmas_Special" targetName="Day_2_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_2_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Christmas_Special" />
     </generated>
   </component>
@@ -21,52 +21,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd98ab3-913b-4601-848e-7be9af188f1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../520. Detect Capital/.idea/520. Detect Capital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../530. Minimum Absolute Distance in BST/.idea/530. Minimum Absolute Distance in BST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/.idea/Puzzle 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-44183c2cd42b11ec6eac.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e9e4dddbf13ffb0872d9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-bd3f3c75f24291e842f2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-02T16-03-52-0545.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/reply/target-Puzzle_1-Debug-88791448daadb6e175e5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a2cd6e1c21819857cbc5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/Puzzle_1.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/Puzzle_1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Puzzle 2/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Puzzle 1/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../20.-Valid-Parentheses" beforeDir="false" afterPath="$PROJECT_DIR$/../20.-Valid-Parentheses" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../27-remove-element" beforeDir="false" afterPath="$PROJECT_DIR$/../27-remove-element" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" afterDir="false" />
@@ -86,15 +40,14 @@
       <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Puzzle 1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Puzzle 1/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-81e135a4e1f9b01c2f7f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-03T04-11-59-0687.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Puzzle 1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Puzzle 1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8e7894e2b55b2dc4114b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-03T05-37-50-0495.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Day_2_Puzzle_2-Debug-4d863d825eddb5efb4df.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Day_1_Puzzle_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Day_1_Puzzle_1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
@@ -145,7 +98,7 @@
       <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special\cmake-build-debug" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Day_1_Puzzle_2">
+  <component name="RunManager" selected="CMake Application.Day_2_Puzzle_1">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -166,7 +119,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_2_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_2_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_2_Puzzle_2">
+    <configuration name="Day_2_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_2_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_2_Puzzle_1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -175,7 +128,7 @@
       <item itemvalue="CMake Application.Christmas_Special" />
       <item itemvalue="CMake Application.Day_1_Puzzle_1" />
       <item itemvalue="CMake Application.Day_1_Puzzle_2" />
-      <item itemvalue="CMake Application.Day_2_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_2_Puzzle_1" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -186,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669997198804</updated>
-      <workItem from="1669997200883" duration="11255000" />
+      <workItem from="1669997200883" duration="12105000" />
     </task>
     <servers />
   </component>
