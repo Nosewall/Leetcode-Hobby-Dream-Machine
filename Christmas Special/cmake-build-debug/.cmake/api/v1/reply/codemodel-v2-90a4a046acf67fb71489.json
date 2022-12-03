@@ -19,7 +19,9 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5,
+						6
 					]
 				}
 			],
@@ -38,7 +40,9 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5,
+						6
 					]
 				}
 			],
@@ -77,6 +81,20 @@
 					"id" : "Day_2_Puzzle_2::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Day_2_Puzzle_2-Debug-8e3ed39cf09b8076d3b5.json",
 					"name" : "Day_2_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_3_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_3_Puzzle_1-Debug-d0ce6b210d7b4872f3d2.json",
+					"name" : "Day_3_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_3_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_3_Puzzle_2-Debug-99fb89db92f71debb012.json",
+					"name" : "Day_3_Puzzle_2",
 					"projectIndex" : 0
 				}
 			]

@@ -37,13 +37,9 @@ int getScoreBasedOnPair(char opponent, char you){
 
 int main(){
     int totalScore = 0;
-    std::vector<char> opponentMoves;
-    std::vector<char> yourMoves;
     std::ifstream strategyGuide("RPS.txt");
     std::string line;
     while(std::getline(strategyGuide, line)){
-        opponentMoves.push_back(line[0]);
-        yourMoves.push_back(line[2]);
         totalScore += getScoreBasedOnPair(line[0], line[2]);
     }
     printf("Your final score following the strategy is : %d", totalScore);
