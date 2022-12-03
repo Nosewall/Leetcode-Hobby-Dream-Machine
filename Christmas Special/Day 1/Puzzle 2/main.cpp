@@ -23,8 +23,12 @@ int main() {
     }
     sort(allTotals.begin(), allTotals.end());
     int highestTotal = allTotals.back();
+    allTotals.pop_back();
+    int secondHighestTotal = allTotals.back();
+    allTotals.pop_back();
+    int thirdHighestTotal = allTotals.back();
 
-    std::cout << "Max Calories : " << highestTotal << std::endl;
+    std::cout << "Top 3 calories : " << highestTotal + secondHighestTotal + thirdHighestTotal << std::endl;
     inputFile.close();
     return 0;
 }

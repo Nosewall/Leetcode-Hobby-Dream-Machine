@@ -16,7 +16,9 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2,
+						3
 					]
 				}
 			],
@@ -32,7 +34,9 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2,
+						3
 					]
 				}
 			],
@@ -50,6 +54,20 @@
 					"id" : "Day_1_Puzzle_1::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Day_1_Puzzle_1-Debug-cda3ca0b173ec4f620ac.json",
 					"name" : "Day_1_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_1_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_1_Puzzle_2-Debug-5947e3b7b3df5e618787.json",
+					"name" : "Day_1_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_2_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_2_Puzzle_2-Debug-4d863d825eddb5efb4df.json",
+					"name" : "Day_2_Puzzle_2",
 					"projectIndex" : 0
 				}
 			]

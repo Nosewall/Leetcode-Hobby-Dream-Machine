@@ -8,3 +8,5 @@ file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/input.txt
 add_executable(Christmas_Special main.cpp)
 
 add_executable(Day_1_Puzzle_1 "Day 1/Puzzle 1/main.cpp")
+add_executable(Day_1_Puzzle_2 "Day 1/Puzzle 2/main.cpp")
+add_executable(Day_2_Puzzle_2 "Day 2/Puzzle 1/main.cpp")

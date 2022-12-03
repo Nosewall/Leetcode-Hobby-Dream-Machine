@@ -1,4 +1,6 @@
 C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug/CMakeFiles/Christmas_Special.dir
 C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug/CMakeFiles/Day_1_Puzzle_1.dir
+C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug/CMakeFiles/Day_1_Puzzle_2.dir
+C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug/CMakeFiles/Day_2_Puzzle_2.dir
 C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug/CMakeFiles/rebuild_cache.dir
