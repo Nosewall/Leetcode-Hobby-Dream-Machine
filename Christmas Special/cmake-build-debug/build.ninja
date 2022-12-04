@@ -271,6 +271,72 @@ build Day_3_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_3_Puzzle_2_Debug CMakeFiles
   TARGET_IMPLIB = libDay_3_Puzzle_2.dll.a
   TARGET_PDB = Day_3_Puzzle_2.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_4_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_4_Puzzle_1
+
+build cmake_object_order_depends_target_Day_4_Puzzle_1: phony || CMakeFiles/Day_4_Puzzle_1.dir
+
+build CMakeFiles/Day_4_Puzzle_1.dir/Day_4/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_4_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 4/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_4_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_4_Puzzle_1.dir\Day_4\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_4_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_4_Puzzle_1.dir\Day_4\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_4_Puzzle_1
+
+
+#############################################
+# Link the executable Day_4_Puzzle_1.exe
+
+build Day_4_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_4_Puzzle_1_Debug CMakeFiles/Day_4_Puzzle_1.dir/Day_4/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_4_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_4_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_4_Puzzle_1.dll.a
+  TARGET_PDB = Day_4_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_4_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_4_Puzzle_2
+
+build cmake_object_order_depends_target_Day_4_Puzzle_2: phony || CMakeFiles/Day_4_Puzzle_2.dir
+
+build CMakeFiles/Day_4_Puzzle_2.dir/Day_4/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_4_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 4/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_4_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_4_Puzzle_2.dir\Day_4\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_4_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_4_Puzzle_2.dir\Day_4\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_4_Puzzle_2
+
+
+#############################################
+# Link the executable Day_4_Puzzle_2.exe
+
+build Day_4_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_4_Puzzle_2_Debug CMakeFiles/Day_4_Puzzle_2.dir/Day_4/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_4_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_4_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_4_Puzzle_2.dll.a
+  TARGET_PDB = Day_4_Puzzle_2.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -311,6 +377,10 @@ build Day_3_Puzzle_1: phony Day_3_Puzzle_1.exe
 
 build Day_3_Puzzle_2: phony Day_3_Puzzle_2.exe
 
+build Day_4_Puzzle_1: phony Day_4_Puzzle_1.exe
+
+build Day_4_Puzzle_2: phony Day_4_Puzzle_2.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -319,7 +389,7 @@ build Day_3_Puzzle_2: phony Day_3_Puzzle_2.exe
 #############################################
 # Folder: C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug
 
-build all: phony Christmas_Special.exe Day_1_Puzzle_1.exe Day_1_Puzzle_2.exe Day_2_Puzzle_1.exe Day_2_Puzzle_2.exe Day_3_Puzzle_1.exe Day_3_Puzzle_2.exe
+build all: phony Christmas_Special.exe Day_1_Puzzle_1.exe Day_1_Puzzle_2.exe Day_2_Puzzle_1.exe Day_2_Puzzle_2.exe Day_3_Puzzle_1.exe Day_3_Puzzle_2.exe Day_4_Puzzle_1.exe Day_4_Puzzle_2.exe
 
 # =============================================================================
 # Built-in targets
