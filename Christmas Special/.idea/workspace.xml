@@ -26,8 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd98ab3-913b-4601-848e-7be9af188f1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 4/Puzzle 1/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Puzzle 2/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../20.-Valid-Parentheses" beforeDir="false" afterPath="$PROJECT_DIR$/../20.-Valid-Parentheses" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../27-remove-element" beforeDir="false" afterPath="$PROJECT_DIR$/../27-remove-element" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" afterDir="false" />
@@ -45,17 +43,10 @@
       <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/.idea/575. Distribute Candies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/.idea/575. Distribute Candies.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Puzzle 2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Puzzle 2/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-90a4a046acf67fb71489.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-03T06-02-27-0836.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Puzzle 2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Puzzle 2/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +98,7 @@
       <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special\cmake-build-debug" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Day_4_Puzzle_1">
+  <component name="RunManager" selected="CMake Application.Day_4_Puzzle_2">
     <configuration name="Christmas_Special" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Christmas_Special" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Christmas_Special">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -179,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669997198804</updated>
       <workItem from="1669997200883" duration="15485000" />
-      <workItem from="1670134459207" duration="2385000" />
+      <workItem from="1670134459207" duration="3004000" />
     </task>
     <servers />
   </component>
