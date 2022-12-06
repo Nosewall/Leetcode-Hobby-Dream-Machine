@@ -41,7 +41,7 @@ int getPriorityFromChar(char check){
 
 int main(){
     int totalPriority = 0;
-    std::ifstream strategyGuide("rucksack.txt");
+    std::ifstream strategyGuide("RayInputDay3.txt");
 
     std::vector<std::string> AllRucksacks;
     std::vector<std::string> leftPouches;
