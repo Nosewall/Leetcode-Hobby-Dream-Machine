@@ -27,7 +27,9 @@
 						9,
 						10,
 						11,
-						12
+						12,
+						13,
+						14
 					]
 				}
 			],
@@ -54,7 +56,9 @@
 						9,
 						10,
 						11,
-						12
+						12,
+						13,
+						14
 					]
 				}
 			],
@@ -149,6 +153,20 @@
 					"id" : "Day_6_Puzzle_2::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Day_6_Puzzle_2-Debug-450d8dc54e43a9cc2056.json",
 					"name" : "Day_6_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_7_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_7_Puzzle_1-Debug-17c559f382d8613f6f16.json",
+					"name" : "Day_7_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_7_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_7_Puzzle_2-Debug-3fdebcf5dc191b7f3e19.json",
+					"name" : "Day_7_Puzzle_2",
 					"projectIndex" : 0
 				}
 			]
