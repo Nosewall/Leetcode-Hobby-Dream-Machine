@@ -2,7 +2,7 @@
 519	640	6919278712300931	Day_3_Puzzle_2.exe	4a3b77842adca9a2
 545	659	6917490195410632	Day_1_Puzzle_2.exe	314c3b96737dc0e8
 681	817	6919266637523072	Day_5_Puzzle_1.exe	e7844fe720814a97
-2	181	6920921763096407	build.ninja	4f862631683f7476
+2	181	6924434899668865	build.ninja	4f862631683f7476
 3	491	6917489657995724	CMakeFiles/Day_1_Puzzle_1.dir/Day_1/Puzzle_1/main.cpp.obj	98f20e96bcfff5a2
 486	592	6920081514222793	Day_6_Puzzle_2.exe	b384a2ef62bb1367
 2	326	6917438667567683	CMakeFiles/Christmas_Special.dir/main.cpp.obj	500208f39a0549fb
@@ -10,6 +10,7 @@
 326	420	6917438668487856	Christmas_Special.exe	c9c36b207e18bb7b
 0	358	6917005935936081	CMakeFiles/Christmas_Special.dir/Day_1/Puzzle_1/main.cpp.obj	da40ddb9cc640b12
 0	545	6917490194290632	CMakeFiles/Day_1_Puzzle_2.dir/Day_1/Puzzle_2/main.cpp.obj	349d55ac56ece52
+3	822	6920976996190344	CMakeFiles/Day_7_Puzzle_1.dir/Day_7/Puzzle_1/main.cpp.obj	228ad57a558562e4
 3	455	6917502744634017	CMakeFiles/Day_2_Puzzle_1.dir/Day_2/Puzzle_1/main.cpp.obj	8fe259262d41daa3
 456	558	6917502745635910	Day_2_Puzzle_1.exe	6d097f3016752c57
 2	510	6917504070356252	CMakeFiles/Day_2_Puzzle_2.dir/Day_2/Puzzle_2/main.cpp.obj	bb5a3715091ebef0
@@ -27,13 +28,6 @@
 4	454	6920076833908786	CMakeFiles/Day_6_Puzzle_1.dir/Day_6/Puzzle_1/main.cpp.obj	99272c164e18bba0
 3	486	6920081513172217	CMakeFiles/Day_6_Puzzle_2.dir/Day_6/Puzzle_2/main.cpp.obj	450fea5783da2c9a
 455	553	6920076834848663	Day_6_Puzzle_1.exe	7a9eaa3f90c3aee1
-1	478	6920924339250574	CMakeFiles/Day_7_Puzzle_1.dir/Day_7/Puzzle_1/main.cpp.obj	228ad57a558562e4
-478	705	6920924341500576	Day_7_Puzzle_1.exe	4ed0032e771d4884
-3	608	6920945023262594	CMakeFiles/Day_7_Puzzle_1.dir/Day_7/Puzzle_1/main.cpp.obj	228ad57a558562e4
-609	766	6920945024822608	Day_7_Puzzle_1.exe	4ed0032e771d4884
-4	929	6920976809582938	CMakeFiles/Day_7_Puzzle_1.dir/Day_7/Puzzle_1/main.cpp.obj	228ad57a558562e4
-930	1124	6920976811514621	Day_7_Puzzle_1.exe	4ed0032e771d4884
-3	822	6920976996190344	CMakeFiles/Day_7_Puzzle_1.dir/Day_7/Puzzle_1/main.cpp.obj	228ad57a558562e4
 823	974	6920976997693479	Day_7_Puzzle_1.exe	4ed0032e771d4884
 0	1312	6920989307097112	CMakeFiles/Day_7_Puzzle_2.dir/Day_7/Puzzle_2/main.cpp.obj	c75e6c7443f06b74
 1313	1504	6920989308997134	Day_7_Puzzle_2.exe	2770f84b2ce428a0

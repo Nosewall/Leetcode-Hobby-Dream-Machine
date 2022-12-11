@@ -1,0 +1,510 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Christmas_Special",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Christmas_Special::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Christmas_Special-Debug-f70b8774049805dba1cc.json",
+					"name" : "Christmas_Special",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_10_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_10_Puzzle_1-Debug-fccd2e22df2fc27b67c4.json",
+					"name" : "Day_10_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_10_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_10_Puzzle_2-Debug-37f7a00610574164a923.json",
+					"name" : "Day_10_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_11_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_11_Puzzle_1-Debug-59fb72f8f5b3249b9f33.json",
+					"name" : "Day_11_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_11_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_11_Puzzle_2-Debug-8803998756b85cf2774d.json",
+					"name" : "Day_11_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_12_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_12_Puzzle_1-Debug-dab95859e8721b5ec8eb.json",
+					"name" : "Day_12_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_12_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_12_Puzzle_2-Debug-2f70b38e414c049b9e7f.json",
+					"name" : "Day_12_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_13_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_13_Puzzle_1-Debug-c73acf930ef43f509cef.json",
+					"name" : "Day_13_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_13_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_13_Puzzle_2-Debug-c7fb3621860244c0a723.json",
+					"name" : "Day_13_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_14_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_14_Puzzle_1-Debug-9af80d5530ef75a7eeae.json",
+					"name" : "Day_14_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_14_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_14_Puzzle_2-Debug-3d75009e38cec332fa5c.json",
+					"name" : "Day_14_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_15_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_15_Puzzle_1-Debug-6020ba834e8c4485bd11.json",
+					"name" : "Day_15_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_15_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_15_Puzzle_2-Debug-3e7710dcda88c52f7f68.json",
+					"name" : "Day_15_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_16_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_16_Puzzle_1-Debug-709fc8917c1eeb007eb4.json",
+					"name" : "Day_16_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_16_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_16_Puzzle_2-Debug-6f394e74ab34c3e6e30a.json",
+					"name" : "Day_16_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_17_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_17_Puzzle_1-Debug-427510b52969dea00f9d.json",
+					"name" : "Day_17_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_17_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_17_Puzzle_2-Debug-697825cbecba4839d307.json",
+					"name" : "Day_17_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_18_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_18_Puzzle_1-Debug-0ccbbf35b4ff96098b4a.json",
+					"name" : "Day_18_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_18_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_18_Puzzle_2-Debug-4d2f3ee7b0e4276962ed.json",
+					"name" : "Day_18_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_19_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_19_Puzzle_1-Debug-4208d026c810989a84e8.json",
+					"name" : "Day_19_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_19_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_19_Puzzle_2-Debug-c1ca536c9fb34d1f1c33.json",
+					"name" : "Day_19_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_1_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_1_Puzzle_1-Debug-cda3ca0b173ec4f620ac.json",
+					"name" : "Day_1_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_1_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_1_Puzzle_2-Debug-5947e3b7b3df5e618787.json",
+					"name" : "Day_1_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_20_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_20_Puzzle_1-Debug-21fafd97112d5ef89708.json",
+					"name" : "Day_20_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_20_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_20_Puzzle_2-Debug-56ba77241e78de4e9e75.json",
+					"name" : "Day_20_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_21_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_21_Puzzle_1-Debug-b7d4b1d64f226b467879.json",
+					"name" : "Day_21_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_21_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_21_Puzzle_2-Debug-3ff6dda61e5d70e72e0c.json",
+					"name" : "Day_21_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_22_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_22_Puzzle_1-Debug-77564efc16b90e7f0d5f.json",
+					"name" : "Day_22_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_22_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_22_Puzzle_2-Debug-0c82dcd92b704a2ca440.json",
+					"name" : "Day_22_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_23_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_23_Puzzle_1-Debug-79196389d990b468cb8b.json",
+					"name" : "Day_23_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_23_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_23_Puzzle_2-Debug-0f3ae218cfb4cf3bb80f.json",
+					"name" : "Day_23_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_24_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_24_Puzzle_1-Debug-c2f5c57735f617aa00d0.json",
+					"name" : "Day_24_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_24_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_24_Puzzle_2-Debug-f869d7795ffe61ad2510.json",
+					"name" : "Day_24_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_25_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_25_Puzzle_1-Debug-897ca991620f1db33093.json",
+					"name" : "Day_25_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_25_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_25_Puzzle_2-Debug-1cd3cafdb041635a1db3.json",
+					"name" : "Day_25_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_2_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_2_Puzzle_1-Debug-290a5f32934fd41d36a9.json",
+					"name" : "Day_2_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_2_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_2_Puzzle_2-Debug-a06e5cecef0943187872.json",
+					"name" : "Day_2_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_3_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_3_Puzzle_1-Debug-f3626779efc3c317b029.json",
+					"name" : "Day_3_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_3_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_3_Puzzle_2-Debug-cd3e3b1ea2546a27b0ee.json",
+					"name" : "Day_3_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_4_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_4_Puzzle_1-Debug-687bab5c788b68539eeb.json",
+					"name" : "Day_4_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_4_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_4_Puzzle_2-Debug-716a55971e40b2f8466b.json",
+					"name" : "Day_4_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_5_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_5_Puzzle_1-Debug-71f5a797ebdc3cba7daa.json",
+					"name" : "Day_5_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_5_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_5_Puzzle_2-Debug-4d046a1906ceceaa4d3c.json",
+					"name" : "Day_5_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_6_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_6_Puzzle_1-Debug-1a62cd010c3ad1d4b9e0.json",
+					"name" : "Day_6_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_6_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_6_Puzzle_2-Debug-cf011f7cb1448539493c.json",
+					"name" : "Day_6_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_7_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_7_Puzzle_1-Debug-8d5cbbb52e48fcc0e7f6.json",
+					"name" : "Day_7_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_7_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_7_Puzzle_2-Debug-b051d360cc4c77fa112d.json",
+					"name" : "Day_7_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_8_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_8_Puzzle_1-Debug-3021a15342789690a766.json",
+					"name" : "Day_8_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_8_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_8_Puzzle_2-Debug-944bf66bda74b82b6310.json",
+					"name" : "Day_8_Puzzle_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_9_Puzzle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_9_Puzzle_1-Debug-1da1cfa9be09326335ff.json",
+					"name" : "Day_9_Puzzle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day_9_Puzzle_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_9_Puzzle_2-Debug-83bc8e7532613f75b256.json",
+					"name" : "Day_9_Puzzle_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug",
+		"source" : "C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

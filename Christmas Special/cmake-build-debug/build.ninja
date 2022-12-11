@@ -535,6 +535,1194 @@ build Day_7_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_7_Puzzle_2_Debug CMakeFiles
   TARGET_IMPLIB = libDay_7_Puzzle_2.dll.a
   TARGET_PDB = Day_7_Puzzle_2.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_8_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_8_Puzzle_1
+
+build cmake_object_order_depends_target_Day_8_Puzzle_1: phony || CMakeFiles/Day_8_Puzzle_1.dir
+
+build CMakeFiles/Day_8_Puzzle_1.dir/Day_8/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_8_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 8/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_8_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_8_Puzzle_1.dir\Day_8\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_8_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_8_Puzzle_1.dir\Day_8\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_8_Puzzle_1
+
+
+#############################################
+# Link the executable Day_8_Puzzle_1.exe
+
+build Day_8_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_8_Puzzle_1_Debug CMakeFiles/Day_8_Puzzle_1.dir/Day_8/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_8_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_8_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_8_Puzzle_1.dll.a
+  TARGET_PDB = Day_8_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_8_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_8_Puzzle_2
+
+build cmake_object_order_depends_target_Day_8_Puzzle_2: phony || CMakeFiles/Day_8_Puzzle_2.dir
+
+build CMakeFiles/Day_8_Puzzle_2.dir/Day_8/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_8_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 8/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_8_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_8_Puzzle_2.dir\Day_8\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_8_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_8_Puzzle_2.dir\Day_8\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_8_Puzzle_2
+
+
+#############################################
+# Link the executable Day_8_Puzzle_2.exe
+
+build Day_8_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_8_Puzzle_2_Debug CMakeFiles/Day_8_Puzzle_2.dir/Day_8/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_8_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_8_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_8_Puzzle_2.dll.a
+  TARGET_PDB = Day_8_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_9_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_9_Puzzle_1
+
+build cmake_object_order_depends_target_Day_9_Puzzle_1: phony || CMakeFiles/Day_9_Puzzle_1.dir
+
+build CMakeFiles/Day_9_Puzzle_1.dir/Day_9/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_9_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 9/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_9_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_9_Puzzle_1.dir\Day_9\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_9_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_9_Puzzle_1.dir\Day_9\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_9_Puzzle_1
+
+
+#############################################
+# Link the executable Day_9_Puzzle_1.exe
+
+build Day_9_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_9_Puzzle_1_Debug CMakeFiles/Day_9_Puzzle_1.dir/Day_9/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_9_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_9_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_9_Puzzle_1.dll.a
+  TARGET_PDB = Day_9_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_9_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_9_Puzzle_2
+
+build cmake_object_order_depends_target_Day_9_Puzzle_2: phony || CMakeFiles/Day_9_Puzzle_2.dir
+
+build CMakeFiles/Day_9_Puzzle_2.dir/Day_9/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_9_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 9/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_9_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_9_Puzzle_2.dir\Day_9\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_9_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_9_Puzzle_2.dir\Day_9\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_9_Puzzle_2
+
+
+#############################################
+# Link the executable Day_9_Puzzle_2.exe
+
+build Day_9_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_9_Puzzle_2_Debug CMakeFiles/Day_9_Puzzle_2.dir/Day_9/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_9_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_9_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_9_Puzzle_2.dll.a
+  TARGET_PDB = Day_9_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_10_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_10_Puzzle_1
+
+build cmake_object_order_depends_target_Day_10_Puzzle_1: phony || CMakeFiles/Day_10_Puzzle_1.dir
+
+build CMakeFiles/Day_10_Puzzle_1.dir/Day_10/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_10_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 10/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_10_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_10_Puzzle_1.dir\Day_10\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_10_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_10_Puzzle_1.dir\Day_10\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_10_Puzzle_1
+
+
+#############################################
+# Link the executable Day_10_Puzzle_1.exe
+
+build Day_10_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_10_Puzzle_1_Debug CMakeFiles/Day_10_Puzzle_1.dir/Day_10/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_10_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_10_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_10_Puzzle_1.dll.a
+  TARGET_PDB = Day_10_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_10_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_10_Puzzle_2
+
+build cmake_object_order_depends_target_Day_10_Puzzle_2: phony || CMakeFiles/Day_10_Puzzle_2.dir
+
+build CMakeFiles/Day_10_Puzzle_2.dir/Day_10/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_10_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 10/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_10_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_10_Puzzle_2.dir\Day_10\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_10_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_10_Puzzle_2.dir\Day_10\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_10_Puzzle_2
+
+
+#############################################
+# Link the executable Day_10_Puzzle_2.exe
+
+build Day_10_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_10_Puzzle_2_Debug CMakeFiles/Day_10_Puzzle_2.dir/Day_10/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_10_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_10_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_10_Puzzle_2.dll.a
+  TARGET_PDB = Day_10_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_11_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_11_Puzzle_1
+
+build cmake_object_order_depends_target_Day_11_Puzzle_1: phony || CMakeFiles/Day_11_Puzzle_1.dir
+
+build CMakeFiles/Day_11_Puzzle_1.dir/Day_11/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_11_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 11/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_11_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_11_Puzzle_1.dir\Day_11\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_11_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_11_Puzzle_1.dir\Day_11\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_11_Puzzle_1
+
+
+#############################################
+# Link the executable Day_11_Puzzle_1.exe
+
+build Day_11_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_11_Puzzle_1_Debug CMakeFiles/Day_11_Puzzle_1.dir/Day_11/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_11_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_11_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_11_Puzzle_1.dll.a
+  TARGET_PDB = Day_11_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_11_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_11_Puzzle_2
+
+build cmake_object_order_depends_target_Day_11_Puzzle_2: phony || CMakeFiles/Day_11_Puzzle_2.dir
+
+build CMakeFiles/Day_11_Puzzle_2.dir/Day_11/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_11_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 11/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_11_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_11_Puzzle_2.dir\Day_11\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_11_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_11_Puzzle_2.dir\Day_11\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_11_Puzzle_2
+
+
+#############################################
+# Link the executable Day_11_Puzzle_2.exe
+
+build Day_11_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_11_Puzzle_2_Debug CMakeFiles/Day_11_Puzzle_2.dir/Day_11/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_11_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_11_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_11_Puzzle_2.dll.a
+  TARGET_PDB = Day_11_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_12_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_12_Puzzle_1
+
+build cmake_object_order_depends_target_Day_12_Puzzle_1: phony || CMakeFiles/Day_12_Puzzle_1.dir
+
+build CMakeFiles/Day_12_Puzzle_1.dir/Day_12/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_12_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 12/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_12_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_12_Puzzle_1.dir\Day_12\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_12_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_12_Puzzle_1.dir\Day_12\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_12_Puzzle_1
+
+
+#############################################
+# Link the executable Day_12_Puzzle_1.exe
+
+build Day_12_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_12_Puzzle_1_Debug CMakeFiles/Day_12_Puzzle_1.dir/Day_12/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_12_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_12_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_12_Puzzle_1.dll.a
+  TARGET_PDB = Day_12_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_12_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_12_Puzzle_2
+
+build cmake_object_order_depends_target_Day_12_Puzzle_2: phony || CMakeFiles/Day_12_Puzzle_2.dir
+
+build CMakeFiles/Day_12_Puzzle_2.dir/Day_12/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_12_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 12/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_12_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_12_Puzzle_2.dir\Day_12\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_12_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_12_Puzzle_2.dir\Day_12\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_12_Puzzle_2
+
+
+#############################################
+# Link the executable Day_12_Puzzle_2.exe
+
+build Day_12_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_12_Puzzle_2_Debug CMakeFiles/Day_12_Puzzle_2.dir/Day_12/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_12_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_12_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_12_Puzzle_2.dll.a
+  TARGET_PDB = Day_12_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_13_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_13_Puzzle_1
+
+build cmake_object_order_depends_target_Day_13_Puzzle_1: phony || CMakeFiles/Day_13_Puzzle_1.dir
+
+build CMakeFiles/Day_13_Puzzle_1.dir/Day_13/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_13_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 13/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_13_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_13_Puzzle_1.dir\Day_13\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_13_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_13_Puzzle_1.dir\Day_13\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_13_Puzzle_1
+
+
+#############################################
+# Link the executable Day_13_Puzzle_1.exe
+
+build Day_13_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_13_Puzzle_1_Debug CMakeFiles/Day_13_Puzzle_1.dir/Day_13/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_13_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_13_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_13_Puzzle_1.dll.a
+  TARGET_PDB = Day_13_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_13_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_13_Puzzle_2
+
+build cmake_object_order_depends_target_Day_13_Puzzle_2: phony || CMakeFiles/Day_13_Puzzle_2.dir
+
+build CMakeFiles/Day_13_Puzzle_2.dir/Day_13/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_13_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 13/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_13_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_13_Puzzle_2.dir\Day_13\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_13_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_13_Puzzle_2.dir\Day_13\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_13_Puzzle_2
+
+
+#############################################
+# Link the executable Day_13_Puzzle_2.exe
+
+build Day_13_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_13_Puzzle_2_Debug CMakeFiles/Day_13_Puzzle_2.dir/Day_13/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_13_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_13_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_13_Puzzle_2.dll.a
+  TARGET_PDB = Day_13_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_14_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_14_Puzzle_1
+
+build cmake_object_order_depends_target_Day_14_Puzzle_1: phony || CMakeFiles/Day_14_Puzzle_1.dir
+
+build CMakeFiles/Day_14_Puzzle_1.dir/Day_14/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_14_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 14/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_14_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_14_Puzzle_1.dir\Day_14\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_14_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_14_Puzzle_1.dir\Day_14\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_14_Puzzle_1
+
+
+#############################################
+# Link the executable Day_14_Puzzle_1.exe
+
+build Day_14_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_14_Puzzle_1_Debug CMakeFiles/Day_14_Puzzle_1.dir/Day_14/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_14_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_14_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_14_Puzzle_1.dll.a
+  TARGET_PDB = Day_14_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_14_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_14_Puzzle_2
+
+build cmake_object_order_depends_target_Day_14_Puzzle_2: phony || CMakeFiles/Day_14_Puzzle_2.dir
+
+build CMakeFiles/Day_14_Puzzle_2.dir/Day_14/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_14_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 14/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_14_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_14_Puzzle_2.dir\Day_14\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_14_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_14_Puzzle_2.dir\Day_14\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_14_Puzzle_2
+
+
+#############################################
+# Link the executable Day_14_Puzzle_2.exe
+
+build Day_14_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_14_Puzzle_2_Debug CMakeFiles/Day_14_Puzzle_2.dir/Day_14/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_14_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_14_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_14_Puzzle_2.dll.a
+  TARGET_PDB = Day_14_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_15_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_15_Puzzle_1
+
+build cmake_object_order_depends_target_Day_15_Puzzle_1: phony || CMakeFiles/Day_15_Puzzle_1.dir
+
+build CMakeFiles/Day_15_Puzzle_1.dir/Day_15/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_15_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 15/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_15_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_15_Puzzle_1.dir\Day_15\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_15_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_15_Puzzle_1.dir\Day_15\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_15_Puzzle_1
+
+
+#############################################
+# Link the executable Day_15_Puzzle_1.exe
+
+build Day_15_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_15_Puzzle_1_Debug CMakeFiles/Day_15_Puzzle_1.dir/Day_15/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_15_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_15_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_15_Puzzle_1.dll.a
+  TARGET_PDB = Day_15_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_15_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_15_Puzzle_2
+
+build cmake_object_order_depends_target_Day_15_Puzzle_2: phony || CMakeFiles/Day_15_Puzzle_2.dir
+
+build CMakeFiles/Day_15_Puzzle_2.dir/Day_15/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_15_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 15/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_15_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_15_Puzzle_2.dir\Day_15\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_15_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_15_Puzzle_2.dir\Day_15\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_15_Puzzle_2
+
+
+#############################################
+# Link the executable Day_15_Puzzle_2.exe
+
+build Day_15_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_15_Puzzle_2_Debug CMakeFiles/Day_15_Puzzle_2.dir/Day_15/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_15_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_15_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_15_Puzzle_2.dll.a
+  TARGET_PDB = Day_15_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_16_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_16_Puzzle_1
+
+build cmake_object_order_depends_target_Day_16_Puzzle_1: phony || CMakeFiles/Day_16_Puzzle_1.dir
+
+build CMakeFiles/Day_16_Puzzle_1.dir/Day_16/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_16_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 16/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_16_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_16_Puzzle_1.dir\Day_16\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_16_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_16_Puzzle_1.dir\Day_16\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_16_Puzzle_1
+
+
+#############################################
+# Link the executable Day_16_Puzzle_1.exe
+
+build Day_16_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_16_Puzzle_1_Debug CMakeFiles/Day_16_Puzzle_1.dir/Day_16/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_16_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_16_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_16_Puzzle_1.dll.a
+  TARGET_PDB = Day_16_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_16_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_16_Puzzle_2
+
+build cmake_object_order_depends_target_Day_16_Puzzle_2: phony || CMakeFiles/Day_16_Puzzle_2.dir
+
+build CMakeFiles/Day_16_Puzzle_2.dir/Day_16/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_16_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 16/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_16_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_16_Puzzle_2.dir\Day_16\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_16_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_16_Puzzle_2.dir\Day_16\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_16_Puzzle_2
+
+
+#############################################
+# Link the executable Day_16_Puzzle_2.exe
+
+build Day_16_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_16_Puzzle_2_Debug CMakeFiles/Day_16_Puzzle_2.dir/Day_16/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_16_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_16_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_16_Puzzle_2.dll.a
+  TARGET_PDB = Day_16_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_17_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_17_Puzzle_1
+
+build cmake_object_order_depends_target_Day_17_Puzzle_1: phony || CMakeFiles/Day_17_Puzzle_1.dir
+
+build CMakeFiles/Day_17_Puzzle_1.dir/Day_17/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_17_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 17/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_17_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_17_Puzzle_1.dir\Day_17\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_17_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_17_Puzzle_1.dir\Day_17\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_17_Puzzle_1
+
+
+#############################################
+# Link the executable Day_17_Puzzle_1.exe
+
+build Day_17_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_17_Puzzle_1_Debug CMakeFiles/Day_17_Puzzle_1.dir/Day_17/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_17_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_17_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_17_Puzzle_1.dll.a
+  TARGET_PDB = Day_17_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_17_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_17_Puzzle_2
+
+build cmake_object_order_depends_target_Day_17_Puzzle_2: phony || CMakeFiles/Day_17_Puzzle_2.dir
+
+build CMakeFiles/Day_17_Puzzle_2.dir/Day_17/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_17_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 17/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_17_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_17_Puzzle_2.dir\Day_17\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_17_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_17_Puzzle_2.dir\Day_17\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_17_Puzzle_2
+
+
+#############################################
+# Link the executable Day_17_Puzzle_2.exe
+
+build Day_17_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_17_Puzzle_2_Debug CMakeFiles/Day_17_Puzzle_2.dir/Day_17/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_17_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_17_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_17_Puzzle_2.dll.a
+  TARGET_PDB = Day_17_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_18_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_18_Puzzle_1
+
+build cmake_object_order_depends_target_Day_18_Puzzle_1: phony || CMakeFiles/Day_18_Puzzle_1.dir
+
+build CMakeFiles/Day_18_Puzzle_1.dir/Day_18/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_18_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 18/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_18_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_18_Puzzle_1.dir\Day_18\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_18_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_18_Puzzle_1.dir\Day_18\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_18_Puzzle_1
+
+
+#############################################
+# Link the executable Day_18_Puzzle_1.exe
+
+build Day_18_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_18_Puzzle_1_Debug CMakeFiles/Day_18_Puzzle_1.dir/Day_18/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_18_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_18_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_18_Puzzle_1.dll.a
+  TARGET_PDB = Day_18_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_18_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_18_Puzzle_2
+
+build cmake_object_order_depends_target_Day_18_Puzzle_2: phony || CMakeFiles/Day_18_Puzzle_2.dir
+
+build CMakeFiles/Day_18_Puzzle_2.dir/Day_18/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_18_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 18/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_18_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_18_Puzzle_2.dir\Day_18\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_18_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_18_Puzzle_2.dir\Day_18\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_18_Puzzle_2
+
+
+#############################################
+# Link the executable Day_18_Puzzle_2.exe
+
+build Day_18_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_18_Puzzle_2_Debug CMakeFiles/Day_18_Puzzle_2.dir/Day_18/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_18_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_18_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_18_Puzzle_2.dll.a
+  TARGET_PDB = Day_18_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_19_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_19_Puzzle_1
+
+build cmake_object_order_depends_target_Day_19_Puzzle_1: phony || CMakeFiles/Day_19_Puzzle_1.dir
+
+build CMakeFiles/Day_19_Puzzle_1.dir/Day_19/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_19_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 19/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_19_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_19_Puzzle_1.dir\Day_19\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_19_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_19_Puzzle_1.dir\Day_19\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_19_Puzzle_1
+
+
+#############################################
+# Link the executable Day_19_Puzzle_1.exe
+
+build Day_19_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_19_Puzzle_1_Debug CMakeFiles/Day_19_Puzzle_1.dir/Day_19/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_19_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_19_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_19_Puzzle_1.dll.a
+  TARGET_PDB = Day_19_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_19_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_19_Puzzle_2
+
+build cmake_object_order_depends_target_Day_19_Puzzle_2: phony || CMakeFiles/Day_19_Puzzle_2.dir
+
+build CMakeFiles/Day_19_Puzzle_2.dir/Day_19/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_19_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 19/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_19_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_19_Puzzle_2.dir\Day_19\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_19_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_19_Puzzle_2.dir\Day_19\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_19_Puzzle_2
+
+
+#############################################
+# Link the executable Day_19_Puzzle_2.exe
+
+build Day_19_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_19_Puzzle_2_Debug CMakeFiles/Day_19_Puzzle_2.dir/Day_19/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_19_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_19_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_19_Puzzle_2.dll.a
+  TARGET_PDB = Day_19_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_20_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_20_Puzzle_1
+
+build cmake_object_order_depends_target_Day_20_Puzzle_1: phony || CMakeFiles/Day_20_Puzzle_1.dir
+
+build CMakeFiles/Day_20_Puzzle_1.dir/Day_20/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_20_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 20/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_20_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_20_Puzzle_1.dir\Day_20\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_20_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_20_Puzzle_1.dir\Day_20\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_20_Puzzle_1
+
+
+#############################################
+# Link the executable Day_20_Puzzle_1.exe
+
+build Day_20_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_20_Puzzle_1_Debug CMakeFiles/Day_20_Puzzle_1.dir/Day_20/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_20_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_20_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_20_Puzzle_1.dll.a
+  TARGET_PDB = Day_20_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_20_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_20_Puzzle_2
+
+build cmake_object_order_depends_target_Day_20_Puzzle_2: phony || CMakeFiles/Day_20_Puzzle_2.dir
+
+build CMakeFiles/Day_20_Puzzle_2.dir/Day_20/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_20_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 20/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_20_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_20_Puzzle_2.dir\Day_20\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_20_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_20_Puzzle_2.dir\Day_20\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_20_Puzzle_2
+
+
+#############################################
+# Link the executable Day_20_Puzzle_2.exe
+
+build Day_20_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_20_Puzzle_2_Debug CMakeFiles/Day_20_Puzzle_2.dir/Day_20/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_20_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_20_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_20_Puzzle_2.dll.a
+  TARGET_PDB = Day_20_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_21_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_21_Puzzle_1
+
+build cmake_object_order_depends_target_Day_21_Puzzle_1: phony || CMakeFiles/Day_21_Puzzle_1.dir
+
+build CMakeFiles/Day_21_Puzzle_1.dir/Day_21/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_21_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 21/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_21_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_21_Puzzle_1.dir\Day_21\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_21_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_21_Puzzle_1.dir\Day_21\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_21_Puzzle_1
+
+
+#############################################
+# Link the executable Day_21_Puzzle_1.exe
+
+build Day_21_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_21_Puzzle_1_Debug CMakeFiles/Day_21_Puzzle_1.dir/Day_21/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_21_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_21_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_21_Puzzle_1.dll.a
+  TARGET_PDB = Day_21_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_21_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_21_Puzzle_2
+
+build cmake_object_order_depends_target_Day_21_Puzzle_2: phony || CMakeFiles/Day_21_Puzzle_2.dir
+
+build CMakeFiles/Day_21_Puzzle_2.dir/Day_21/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_21_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 21/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_21_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_21_Puzzle_2.dir\Day_21\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_21_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_21_Puzzle_2.dir\Day_21\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_21_Puzzle_2
+
+
+#############################################
+# Link the executable Day_21_Puzzle_2.exe
+
+build Day_21_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_21_Puzzle_2_Debug CMakeFiles/Day_21_Puzzle_2.dir/Day_21/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_21_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_21_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_21_Puzzle_2.dll.a
+  TARGET_PDB = Day_21_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_22_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_22_Puzzle_1
+
+build cmake_object_order_depends_target_Day_22_Puzzle_1: phony || CMakeFiles/Day_22_Puzzle_1.dir
+
+build CMakeFiles/Day_22_Puzzle_1.dir/Day_22/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_22_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 22/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_22_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_22_Puzzle_1.dir\Day_22\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_22_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_22_Puzzle_1.dir\Day_22\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_22_Puzzle_1
+
+
+#############################################
+# Link the executable Day_22_Puzzle_1.exe
+
+build Day_22_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_22_Puzzle_1_Debug CMakeFiles/Day_22_Puzzle_1.dir/Day_22/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_22_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_22_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_22_Puzzle_1.dll.a
+  TARGET_PDB = Day_22_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_22_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_22_Puzzle_2
+
+build cmake_object_order_depends_target_Day_22_Puzzle_2: phony || CMakeFiles/Day_22_Puzzle_2.dir
+
+build CMakeFiles/Day_22_Puzzle_2.dir/Day_22/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_22_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 22/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_22_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_22_Puzzle_2.dir\Day_22\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_22_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_22_Puzzle_2.dir\Day_22\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_22_Puzzle_2
+
+
+#############################################
+# Link the executable Day_22_Puzzle_2.exe
+
+build Day_22_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_22_Puzzle_2_Debug CMakeFiles/Day_22_Puzzle_2.dir/Day_22/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_22_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_22_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_22_Puzzle_2.dll.a
+  TARGET_PDB = Day_22_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_23_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_23_Puzzle_1
+
+build cmake_object_order_depends_target_Day_23_Puzzle_1: phony || CMakeFiles/Day_23_Puzzle_1.dir
+
+build CMakeFiles/Day_23_Puzzle_1.dir/Day_23/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_23_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 23/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_23_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_23_Puzzle_1.dir\Day_23\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_23_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_23_Puzzle_1.dir\Day_23\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_23_Puzzle_1
+
+
+#############################################
+# Link the executable Day_23_Puzzle_1.exe
+
+build Day_23_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_23_Puzzle_1_Debug CMakeFiles/Day_23_Puzzle_1.dir/Day_23/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_23_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_23_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_23_Puzzle_1.dll.a
+  TARGET_PDB = Day_23_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_23_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_23_Puzzle_2
+
+build cmake_object_order_depends_target_Day_23_Puzzle_2: phony || CMakeFiles/Day_23_Puzzle_2.dir
+
+build CMakeFiles/Day_23_Puzzle_2.dir/Day_23/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_23_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 23/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_23_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_23_Puzzle_2.dir\Day_23\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_23_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_23_Puzzle_2.dir\Day_23\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_23_Puzzle_2
+
+
+#############################################
+# Link the executable Day_23_Puzzle_2.exe
+
+build Day_23_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_23_Puzzle_2_Debug CMakeFiles/Day_23_Puzzle_2.dir/Day_23/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_23_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_23_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_23_Puzzle_2.dll.a
+  TARGET_PDB = Day_23_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_24_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_24_Puzzle_1
+
+build cmake_object_order_depends_target_Day_24_Puzzle_1: phony || CMakeFiles/Day_24_Puzzle_1.dir
+
+build CMakeFiles/Day_24_Puzzle_1.dir/Day_24/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_24_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 24/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_24_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_24_Puzzle_1.dir\Day_24\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_24_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_24_Puzzle_1.dir\Day_24\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_24_Puzzle_1
+
+
+#############################################
+# Link the executable Day_24_Puzzle_1.exe
+
+build Day_24_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_24_Puzzle_1_Debug CMakeFiles/Day_24_Puzzle_1.dir/Day_24/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_24_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_24_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_24_Puzzle_1.dll.a
+  TARGET_PDB = Day_24_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_24_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_24_Puzzle_2
+
+build cmake_object_order_depends_target_Day_24_Puzzle_2: phony || CMakeFiles/Day_24_Puzzle_2.dir
+
+build CMakeFiles/Day_24_Puzzle_2.dir/Day_24/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_24_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 24/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_24_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_24_Puzzle_2.dir\Day_24\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_24_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_24_Puzzle_2.dir\Day_24\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_24_Puzzle_2
+
+
+#############################################
+# Link the executable Day_24_Puzzle_2.exe
+
+build Day_24_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_24_Puzzle_2_Debug CMakeFiles/Day_24_Puzzle_2.dir/Day_24/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_24_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_24_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_24_Puzzle_2.dll.a
+  TARGET_PDB = Day_24_Puzzle_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_25_Puzzle_1
+
+
+#############################################
+# Order-only phony target for Day_25_Puzzle_1
+
+build cmake_object_order_depends_target_Day_25_Puzzle_1: phony || CMakeFiles/Day_25_Puzzle_1.dir
+
+build CMakeFiles/Day_25_Puzzle_1.dir/Day_25/Puzzle_1/main.cpp.obj: CXX_COMPILER__Day_25_Puzzle_1_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 25/Puzzle$ 1/main.cpp || cmake_object_order_depends_target_Day_25_Puzzle_1
+  DEP_FILE = CMakeFiles\Day_25_Puzzle_1.dir\Day_25\Puzzle_1\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_25_Puzzle_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_25_Puzzle_1.dir\Day_25\Puzzle_1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_25_Puzzle_1
+
+
+#############################################
+# Link the executable Day_25_Puzzle_1.exe
+
+build Day_25_Puzzle_1.exe: CXX_EXECUTABLE_LINKER__Day_25_Puzzle_1_Debug CMakeFiles/Day_25_Puzzle_1.dir/Day_25/Puzzle_1/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_25_Puzzle_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_25_Puzzle_1.exe
+  TARGET_IMPLIB = libDay_25_Puzzle_1.dll.a
+  TARGET_PDB = Day_25_Puzzle_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day_25_Puzzle_2
+
+
+#############################################
+# Order-only phony target for Day_25_Puzzle_2
+
+build cmake_object_order_depends_target_Day_25_Puzzle_2: phony || CMakeFiles/Day_25_Puzzle_2.dir
+
+build CMakeFiles/Day_25_Puzzle_2.dir/Day_25/Puzzle_2/main.cpp.obj: CXX_COMPILER__Day_25_Puzzle_2_Debug C$:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas$ Special/Day$ 25/Puzzle$ 2/main.cpp || cmake_object_order_depends_target_Day_25_Puzzle_2
+  DEP_FILE = CMakeFiles\Day_25_Puzzle_2.dir\Day_25\Puzzle_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day_25_Puzzle_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day_25_Puzzle_2.dir\Day_25\Puzzle_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day_25_Puzzle_2
+
+
+#############################################
+# Link the executable Day_25_Puzzle_2.exe
+
+build Day_25_Puzzle_2.exe: CXX_EXECUTABLE_LINKER__Day_25_Puzzle_2_Debug CMakeFiles/Day_25_Puzzle_2.dir/Day_25/Puzzle_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day_25_Puzzle_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day_25_Puzzle_2.exe
+  TARGET_IMPLIB = libDay_25_Puzzle_2.dll.a
+  TARGET_PDB = Day_25_Puzzle_2.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -563,9 +1751,73 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build Christmas_Special: phony Christmas_Special.exe
 
+build Day_10_Puzzle_1: phony Day_10_Puzzle_1.exe
+
+build Day_10_Puzzle_2: phony Day_10_Puzzle_2.exe
+
+build Day_11_Puzzle_1: phony Day_11_Puzzle_1.exe
+
+build Day_11_Puzzle_2: phony Day_11_Puzzle_2.exe
+
+build Day_12_Puzzle_1: phony Day_12_Puzzle_1.exe
+
+build Day_12_Puzzle_2: phony Day_12_Puzzle_2.exe
+
+build Day_13_Puzzle_1: phony Day_13_Puzzle_1.exe
+
+build Day_13_Puzzle_2: phony Day_13_Puzzle_2.exe
+
+build Day_14_Puzzle_1: phony Day_14_Puzzle_1.exe
+
+build Day_14_Puzzle_2: phony Day_14_Puzzle_2.exe
+
+build Day_15_Puzzle_1: phony Day_15_Puzzle_1.exe
+
+build Day_15_Puzzle_2: phony Day_15_Puzzle_2.exe
+
+build Day_16_Puzzle_1: phony Day_16_Puzzle_1.exe
+
+build Day_16_Puzzle_2: phony Day_16_Puzzle_2.exe
+
+build Day_17_Puzzle_1: phony Day_17_Puzzle_1.exe
+
+build Day_17_Puzzle_2: phony Day_17_Puzzle_2.exe
+
+build Day_18_Puzzle_1: phony Day_18_Puzzle_1.exe
+
+build Day_18_Puzzle_2: phony Day_18_Puzzle_2.exe
+
+build Day_19_Puzzle_1: phony Day_19_Puzzle_1.exe
+
+build Day_19_Puzzle_2: phony Day_19_Puzzle_2.exe
+
 build Day_1_Puzzle_1: phony Day_1_Puzzle_1.exe
 
 build Day_1_Puzzle_2: phony Day_1_Puzzle_2.exe
+
+build Day_20_Puzzle_1: phony Day_20_Puzzle_1.exe
+
+build Day_20_Puzzle_2: phony Day_20_Puzzle_2.exe
+
+build Day_21_Puzzle_1: phony Day_21_Puzzle_1.exe
+
+build Day_21_Puzzle_2: phony Day_21_Puzzle_2.exe
+
+build Day_22_Puzzle_1: phony Day_22_Puzzle_1.exe
+
+build Day_22_Puzzle_2: phony Day_22_Puzzle_2.exe
+
+build Day_23_Puzzle_1: phony Day_23_Puzzle_1.exe
+
+build Day_23_Puzzle_2: phony Day_23_Puzzle_2.exe
+
+build Day_24_Puzzle_1: phony Day_24_Puzzle_1.exe
+
+build Day_24_Puzzle_2: phony Day_24_Puzzle_2.exe
+
+build Day_25_Puzzle_1: phony Day_25_Puzzle_1.exe
+
+build Day_25_Puzzle_2: phony Day_25_Puzzle_2.exe
 
 build Day_2_Puzzle_1: phony Day_2_Puzzle_1.exe
 
@@ -591,6 +1843,14 @@ build Day_7_Puzzle_1: phony Day_7_Puzzle_1.exe
 
 build Day_7_Puzzle_2: phony Day_7_Puzzle_2.exe
 
+build Day_8_Puzzle_1: phony Day_8_Puzzle_1.exe
+
+build Day_8_Puzzle_2: phony Day_8_Puzzle_2.exe
+
+build Day_9_Puzzle_1: phony Day_9_Puzzle_1.exe
+
+build Day_9_Puzzle_2: phony Day_9_Puzzle_2.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -599,7 +1859,7 @@ build Day_7_Puzzle_2: phony Day_7_Puzzle_2.exe
 #############################################
 # Folder: C:/Users/Nolan/Documents/Leetcode-Hobby-Dream-Machine/Christmas Special/cmake-build-debug
 
-build all: phony Christmas_Special.exe Day_1_Puzzle_1.exe Day_1_Puzzle_2.exe Day_2_Puzzle_1.exe Day_2_Puzzle_2.exe Day_3_Puzzle_1.exe Day_3_Puzzle_2.exe Day_4_Puzzle_1.exe Day_4_Puzzle_2.exe Day_5_Puzzle_1.exe Day_5_Puzzle_2.exe Day_6_Puzzle_1.exe Day_6_Puzzle_2.exe Day_7_Puzzle_1.exe Day_7_Puzzle_2.exe
+build all: phony Christmas_Special.exe Day_1_Puzzle_1.exe Day_1_Puzzle_2.exe Day_2_Puzzle_1.exe Day_2_Puzzle_2.exe Day_3_Puzzle_1.exe Day_3_Puzzle_2.exe Day_4_Puzzle_1.exe Day_4_Puzzle_2.exe Day_5_Puzzle_1.exe Day_5_Puzzle_2.exe Day_6_Puzzle_1.exe Day_6_Puzzle_2.exe Day_7_Puzzle_1.exe Day_7_Puzzle_2.exe Day_8_Puzzle_1.exe Day_8_Puzzle_2.exe Day_9_Puzzle_1.exe Day_9_Puzzle_2.exe Day_10_Puzzle_1.exe Day_10_Puzzle_2.exe Day_11_Puzzle_1.exe Day_11_Puzzle_2.exe Day_12_Puzzle_1.exe Day_12_Puzzle_2.exe Day_13_Puzzle_1.exe Day_13_Puzzle_2.exe Day_14_Puzzle_1.exe Day_14_Puzzle_2.exe Day_15_Puzzle_1.exe Day_15_Puzzle_2.exe Day_16_Puzzle_1.exe Day_16_Puzzle_2.exe Day_17_Puzzle_1.exe Day_17_Puzzle_2.exe Day_18_Puzzle_1.exe Day_18_Puzzle_2.exe Day_19_Puzzle_1.exe Day_19_Puzzle_2.exe Day_20_Puzzle_1.exe Day_20_Puzzle_2.exe Day_21_Puzzle_1.exe Day_21_Puzzle_2.exe Day_22_Puzzle_1.exe Day_22_Puzzle_2.exe Day_23_Puzzle_1.exe Day_23_Puzzle_2.exe Day_24_Puzzle_1.exe Day_24_Puzzle_2.exe Day_25_Puzzle_1.exe Day_25_Puzzle_2.exe
 
 # =============================================================================
 # Built-in targets
