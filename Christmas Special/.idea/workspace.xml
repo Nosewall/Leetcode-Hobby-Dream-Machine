@@ -8,21 +8,57 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Christmas_Special" targetName="Day_6_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_12_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_8_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_8_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_15_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_15_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_24_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_18_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_24_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_18_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_21_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_21_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_12_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_25_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_25_Puzzle_2" />
       <config projectName="Christmas_Special" targetName="Day_3_Puzzle_2" />
-      <config projectName="Christmas_Special" targetName="Day_6_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Day_3_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_19_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_19_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_7_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_2_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_2_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_13_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_13_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_23_Puzzle_2" />
       <config projectName="Christmas_Special" targetName="Day_7_Puzzle_2" />
       <config projectName="Christmas_Special" targetName="Christmas_Special" />
+      <config projectName="Christmas_Special" targetName="Day_20_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_20_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_14_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_17_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Day_1_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_17_Puzzle_2" />
       <config projectName="Christmas_Special" targetName="Day_1_Puzzle_2" />
       <config projectName="Christmas_Special" targetName="Day_4_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Day_4_Puzzle_2" />
-      <config projectName="Christmas_Special" targetName="Day_7_Puzzle_1" />
-      <config projectName="Christmas_Special" targetName="Day_2_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_14_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_23_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_22_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_22_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_9_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_6_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_9_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_6_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_10_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_10_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_11_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_11_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Day_5_Puzzle_1" />
-      <config projectName="Christmas_Special" targetName="Day_2_Puzzle_1" />
+      <config projectName="Christmas_Special" targetName="Day_16_Puzzle_1" />
       <config projectName="Christmas_Special" targetName="Day_5_Puzzle_2" />
+      <config projectName="Christmas_Special" targetName="Day_16_Puzzle_2" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -32,8 +68,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd98ab3-913b-4601-848e-7be9af188f1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Offline Q's" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/day9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../20.-Valid-Parentheses" beforeDir="false" afterPath="$PROJECT_DIR$/../20.-Valid-Parentheses" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../27-remove-element" beforeDir="false" afterPath="$PROJECT_DIR$/../27-remove-element" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base Seven/.idea/workspace.xml" afterDir="false" />
@@ -52,7 +86,10 @@
       <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../575. Distribute Candies/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Puzzle 1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Puzzle 1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Puzzle 1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Puzzle 1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,8 +142,108 @@
       <recent name="C:\Users\Nolan\Documents\Leetcode-Hobby-Dream-Machine\Christmas Special\cmake-build-debug" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Day_7_Puzzle_2">
+  <component name="RunManager" selected="CMake Application.Day_8_Puzzle_1">
     <configuration name="Christmas_Special" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Christmas_Special" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Christmas_Special">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_10_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_10_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_10_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_10_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_10_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_10_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_11_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_11_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_11_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_11_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_11_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_11_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_12_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_12_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_12_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_12_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_12_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_12_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_13_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_13_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_13_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_13_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_13_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_13_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_14_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_14_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_14_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_14_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_14_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_14_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_15_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_15_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_15_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_15_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_15_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_15_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_16_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_16_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_16_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_16_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_16_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_16_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_17_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_17_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_17_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_17_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_17_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_17_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_18_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_18_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_18_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_18_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_18_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_18_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_19_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_19_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_19_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_19_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_19_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_19_Puzzle_2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -117,6 +254,66 @@
       </method>
     </configuration>
     <configuration name="Day_1_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_1_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_1_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_20_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_20_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_20_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_20_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_20_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_20_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_21_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_21_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_21_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_21_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_21_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_21_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_22_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_22_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_22_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_22_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_22_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_22_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_23_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_23_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_23_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_23_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_23_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_23_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_24_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_24_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_24_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_24_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_24_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_24_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_25_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_25_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_25_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_25_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_25_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_25_Puzzle_2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -181,15 +378,62 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Day_8_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_8_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_8_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_8_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_8_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_8_Puzzle_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_9_Puzzle_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_9_Puzzle_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_9_Puzzle_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_9_Puzzle_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Christmas_Special" TARGET_NAME="Day_9_Puzzle_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Christmas_Special" RUN_TARGET_NAME="Day_9_Puzzle_2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="CMake Application.Christmas_Special" />
+      <item itemvalue="CMake Application.Day_10_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_10_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_11_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_11_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_12_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_12_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_13_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_13_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_14_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_14_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_15_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_15_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_16_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_16_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_17_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_17_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_18_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_18_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_19_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_19_Puzzle_2" />
       <item itemvalue="CMake Application.Day_1_Puzzle_1" />
       <item itemvalue="CMake Application.Day_1_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_20_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_20_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_21_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_21_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_22_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_22_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_23_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_23_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_24_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_24_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_25_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_25_Puzzle_2" />
       <item itemvalue="CMake Application.Day_2_Puzzle_1" />
       <item itemvalue="CMake Application.Day_2_Puzzle_2" />
       <item itemvalue="CMake Application.Day_3_Puzzle_1" />
@@ -202,6 +446,10 @@
       <item itemvalue="CMake Application.Day_6_Puzzle_2" />
       <item itemvalue="CMake Application.Day_7_Puzzle_1" />
       <item itemvalue="CMake Application.Day_7_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_8_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_8_Puzzle_2" />
+      <item itemvalue="CMake Application.Day_9_Puzzle_1" />
+      <item itemvalue="CMake Application.Day_9_Puzzle_2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -217,7 +465,8 @@
       <workItem from="1670212972517" duration="11214000" />
       <workItem from="1670303541781" duration="3245000" />
       <workItem from="1670388855423" duration="6930000" />
-      <workItem from="1670739557699" duration="725000" />
+      <workItem from="1670739557699" duration="796000" />
+      <workItem from="1670774530305" duration="5444000" />
     </task>
     <servers />
   </component>

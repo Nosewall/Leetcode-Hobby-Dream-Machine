@@ -21,8 +21,12 @@ using std::shared_ptr;
 
 
 int main() {
-    ifstream input_file( "day7.txt" );
-    auto filesystem = getFileSystem( input_file );
-    cout << "Directory size to delete : " << part2(filesystem) << endl;
-    return 0;
+    ifstream input( "day9.txt" );
+    std::string line;
+    //Create data structure to hold the forest.
+    while(getline(input, line)){
+        for (int i = 0; i < line.length(); i++){
+            
+        }
+    }
 }

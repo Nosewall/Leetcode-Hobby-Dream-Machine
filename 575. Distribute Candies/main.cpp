@@ -1,3 +1,9 @@
+#include <any>
+#include <windows.h>
+#include <vector>
+#include "unordered_map"
+#include "minmax.h"
+
 class Solution {
 public:
     int distributeCandies(vector<int>& candyType) {
@@ -9,6 +15,6 @@ public:
 
         int size = candyType.size();
         int m = mp.size();
-        return min( siz/2, m);
+        return min( size/2, m);
     }
 };

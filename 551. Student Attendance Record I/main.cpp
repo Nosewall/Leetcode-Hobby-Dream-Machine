@@ -4,9 +4,9 @@ public:
         int longestLateStreak = 0;
         int numberOfAbsences = 0;
         for (int i = 0; i < s.length(); i++){
-            if (s[i] == 'A'){
+            if (s[i] == 'A') {
                 numberOfAbsences += 1;
-                if (numberOfAbsences >= 2){
+                if (numberOfAbsences >= 2) {
                     return 0;
                 }
             }
